@@ -10,9 +10,9 @@ const Hero = () => {
 
         <button
           type='button'
-          onClick={() =>
+{/*           onClick={() =>
             window.open("https://github.com/TidbitsJS/Summize", "_blank")
-          }
+          } */}
           className='black_btn'
         >
           GitHub
